@@ -8,7 +8,6 @@ import {
   Shield,
   Briefcase,
   GraduationCap,
-  Monitor,
 } from "lucide-react";
 import React from "react";
 import profileImage from "./assets/1690407207382.jpeg";
@@ -21,6 +20,7 @@ function App() {
       <div className="absolute inset-0 bg-gradient-to-r from-purple-900/30 via-blue-900/30 to-indigo-900/30 animate-gradient-xy"></div>
 
       <div className="max-w-6xl mx-auto space-y-8 relative">
+        {/* Rest of the component remains exactly the same */}
         {/* Profile Section */}
         <div className="backdrop-blur-xl bg-gray-900/80 rounded-xl p-8 shadow-[0_8px_32px_0_rgba(31,38,135,0.37)] border border-gray-800 hover:bg-gray-800/80 transition-all duration-300">
           <div className="flex flex-col md:flex-row items-center gap-8">
