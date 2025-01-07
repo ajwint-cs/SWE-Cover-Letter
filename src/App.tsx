@@ -10,6 +10,8 @@ import {
   GraduationCap,
 } from "lucide-react";
 import React from "react";
+import profileImage from "./assets/1690407207382.jpeg";
+import endoBanner from "./assets/Endo (Youtube Banner).gif";
 
 function App() {
   return (
@@ -25,7 +27,7 @@ function App() {
             <div className="relative group">
               <div className="w-48 h-48 rounded-full overflow-hidden transform transition-transform duration-300 group-hover:scale-105 group-hover:rotate-3">
                 <img
-                  src="D:\Downloads\project-bolt-sb1-xdg3uf7x\project\src\assets\1690407207382.jpeg"
+                  src={profileImage}
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
@@ -207,7 +209,7 @@ function App() {
               </div>
               <div className="w-full md:w-1/2">
                 <img
-                  src="https://i.imgur.com/vKb2F1B.gif"
+                  src={endoBanner}
                   alt="Endo Logo Animation"
                   className="w-full rounded-lg shadow-lg border border-purple-500/20"
                 />
