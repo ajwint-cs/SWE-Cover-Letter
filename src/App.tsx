@@ -102,11 +102,22 @@ function App() {
           </div>
           <div className="space-y-4">
             <p>
-              With proficiency in React.js, Vue.js, and other prominent modern
-              technologies, I have demonstrated my ability to develop
-              cutting-edge solutions. My role as Project Lead Developer at Endo
-              showcases my capability to architect comprehensive technical
-              infrastructures and implement innovative digital platforms.
+              As a certified IT professional and LLM trainer at DataAnnotation,
+              I blend hands-on AI model evaluation with growing technical
+              expertise. My dual roles as an AI tester and Project Lead
+              Developer at my startup, Endo, showcase my ability to both assess
+              cutting-edge AI technologies and architect comprehensive technical
+              solutions. With certifications including AWS Cloud Practitioner
+              and CompTIA Security+, I bring a solid foundation in cloud
+              computing and cybersecurity. My practical experience includes
+              building enterprise-level infrastructure through home lab
+              implementations, where I've deployed SIEM systems and managed
+              network architectures. I'm passionate about staying ahead of
+              technology trends, which drives my continuous learning in cloud
+              solutions, AI development, and cybersecurity. My passion for IT
+              and cybersecurity comes from my love for evolving technology and
+              its uses, which allows me to learn and tackle diverse technical
+              challenges with interest and confidence.
             </p>
           </div>
         </div>
