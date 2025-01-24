@@ -38,7 +38,7 @@ function App() {
                 AJ Wint
               </h1>
               <h2 className="text-2xl text-purple-300 mb-4">
-                Software Engineer & Founder of Endo
+                Software Engineer | IT/Cybersecurity | Founder of Endo
               </h2>
               <div className="flex gap-4 justify-center md:justify-start">
                 <a
