@@ -102,30 +102,25 @@ function App() {
           </div>
           <div className="space-y-4">
             <p>
-              {" "}
-              As a cybersecurity-focused IT professional with Google IT Support
-              and CompTIA Security+ certifications, I combine analytical skills
-              from AI testing at DataAnnotation with practical security
-              experience through LetsDefend SOC Analyst training. My dual roles
-              as an AI tester and Project Lead Developer at my startup, Endo,
-              demonstrate my ability to identify vulnerabilities and architect
-              secure technical solutions. With Security+ and AWS Cloud
-              Practitioner certification, as well as hands-on SIEM
-              implementation experience, I bring a solid foundation in cloud
-              security and threat detection.{" "}
-            </p>{" "}
+              As a certified IT professional and LLM trainer at DataAnnotation,
+              I blend hands-on AI model evaluation with growing technical
+              expertise. My dual roles as an AI tester and Project Lead
+              Developer at my startup, Endo, showcase my ability to both assess
+              cutting-edge AI technologies and architect comprehensive technical
+              solutions. With certifications including AWS Cloud Practitioner
+              and CompTIA Security+, I bring a solid foundation in cloud
+              computing and cybersecurity.
+            </p>
             <p>
-              {" "}
-              My practical cybersecurity experience includes building and
-              securing enterprise-level infrastructure through home lab
-              implementations, where I've deployed SIEM systems, configured
-              security monitoring, and managed secure network architectures. I'm
-              passionate about protecting vulnerable systems and individuals
-              from digital threats, which drives my continuous learning in
-              security operations, incident response, and threat analysis. My
-              background in Civil Air Patrol, where I achieved the rank of cadet
-              captain, reinforces my commitment to security protocols and
-              disciplined approach to cybersecurity challenges.{" "}
+              My practical experience includes building enterprise-level
+              infrastructure through home lab implementations, where I've
+              deployed SIEM systems and managed network architectures. I'm
+              passionate about staying ahead of technology trends, which drives
+              my continuous learning in cloud solutions, AI development, and
+              cybersecurity. My passion for IT and cybersecurity comes from my
+              love for evolving technology and its uses, which allows me to
+              learn and tackle diverse technical challenges with interest and
+              confidence.
             </p>
           </div>
         </div>
@@ -215,8 +210,9 @@ function App() {
                   >
                     Endo
                   </a>
-                  , I am spearheading the development of a dual-purpose venue
-                  and social media platform, showcasing my ability to:
+                  , I've spearheaded the development of a revolutionary
+                  dual-purpose venue and social media platform, showcasing my
+                  ability to:
                 </p>
                 <ul className="list-disc list-inside space-y-2 ml-4">
                   <li>Architect comprehensive technical solutions</li>
@@ -297,10 +293,7 @@ function App() {
                 Threat Detection
               </span>
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Security and Log Analysis
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Network Security Monitoring
+                Security Analysis
               </span>
             </div>
           </div>
