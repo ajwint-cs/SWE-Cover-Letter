@@ -103,16 +103,16 @@ function App() {
           <div className="space-y-4">
             <p>
               {" "}
-              As a cybersecurity-focused IT professional with Google IT Support
-              and CompTIA Security+ certifications, I combine analytical skills
-              from AI testing at DataAnnotation with practical security
-              experience through LetsDefend SOC Analyst training. My dual roles
-              as an AI tester and Project Lead Developer at my startup, Endo,
-              demonstrate my ability to identify vulnerabilities and architect
-              secure technical solutions. With Security+ and AWS Cloud
-              Practitioner certification, as well as hands-on SIEM
-              implementation experience, I bring a solid foundation in cloud
-              security and threat detection.{" "}
+              As a cybersecurity-focused IT professional with Google
+              Cybersecurity/IT Support and CompTIA Security+ certifications, I
+              combine analytical skills from AI testing at DataAnnotation with
+              practical security experience through LetsDefend SOC Analyst
+              training. My dual roles as an AI tester and Project Lead Developer
+              at my startup, Endo, demonstrate my ability to identify
+              vulnerabilities and architect secure technical solutions. With
+              Security+ and AWS Cloud Practitioner certification, as well as
+              hands-on SIEM implementation experience, I bring a solid
+              foundation in cloud security and threat detection.{" "}
             </p>{" "}
             <p>
               {" "}
