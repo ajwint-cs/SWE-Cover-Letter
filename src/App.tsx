@@ -325,7 +325,7 @@ function App() {
               <p className="text-gray-400 mt-4">
                 For a deeper look into the lab structure and tools in action,
                 please see the embedded walkthrough below or at this
-                [link](https://docs.google.com/document/d/1mg3qXWvdJIO1zETjr-0_Zip8IgXWu7weZuyd-wuQkmo/edit?usp=sharing).
+                (link)[https://docs.google.com/document/d/1mg3qXWvdJIO1zETjr-0_Zip8IgXWu7weZuyd-wuQkmo/edit?usp=sharing].
               </p>
 
               <div className="aspect-video w-full">
