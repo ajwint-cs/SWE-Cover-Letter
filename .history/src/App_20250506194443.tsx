@@ -318,26 +318,6 @@ function App() {
                 </span>
               </li>
             </ul>
-            <div className="mt-6">
-              <h4 className="text-lg font-semibold text-purple-300 mb-2">
-                Lab Walkthrough & Documentation
-              </h4>
-              <p className="text-gray-400 mt-4">
-                For a deeper look into the lab structure and tools in action,
-                please see the embedded walkthrough below:
-              </p>
-
-              <div className="aspect-video w-full">
-                <iframe
-                  src="https://docs.google.com/document/d/1mg3qXWvdJIO1zETjr-0_Zip8IgXWu7weZuyd-wuQkmo/preview"
-                  width="100%"
-                  height="600"
-                  allow="autoplay"
-                  style={{ border: "none" }}
-                ></iframe>
-              </div>
-            </div>
-
             <div className="mt-4 flex flex-wrap gap-2">
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
                 Windows System Administration
