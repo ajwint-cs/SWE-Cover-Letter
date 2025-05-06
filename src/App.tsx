@@ -2,7 +2,6 @@ import {
   Github,
   Mail,
   Linkedin,
-  Terminal,
   Award,
   Code,
   Shield,
@@ -10,7 +9,6 @@ import {
   GraduationCap,
   Monitor,
 } from "lucide-react";
-import React from "react";
 import profileImage from "./assets/1690407207382.jpeg";
 import endoBanner from "./assets/Endo (Youtube Banner).gif";
 
