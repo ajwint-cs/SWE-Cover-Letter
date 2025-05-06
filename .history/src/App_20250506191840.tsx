@@ -36,11 +36,10 @@ function App() {
                 AJ Wint
               </h1>
               <h2 className="text-2xl text-purple-300 mb-4">
-                Entry-Level IT Generalist | Emerging Cybersecurity Analyst
+                Entry-Level IT Generalist | Aspiring Cybersecurity Analyst |
               </h2>
               <h3 className="text-1xl text-purple-300 mb-4">
-                Security+ Certified | AWS Cloud Practitioner | Google IT Support
-                & Cybersecurity Certificate
+                B.S in Software Engineering | Security+ Certified
               </h3>
               <div className="flex gap-4 justify-center md:justify-start">
                 <a
@@ -251,6 +250,67 @@ function App() {
               Projects
             </h2>
           </div>
+          {/* LetsDefend SOC Analyst Training */}
+          <div className="mb-8 p-6 bg-gray-800/50 rounded-lg hover:bg-gray-800/70 transition-all duration-300">
+            <div className="flex justify-between items-start mb-4">
+              <h3 className="text-xl font-semibold text-purple-300">
+                LetsDefend SOC Analyst Training
+              </h3>
+              <span className="text-gray-400">Feb 2025 - Present</span>
+            </div>
+            <ul className="space-y-3 text-gray-300">
+              <li className="flex gap-2">
+                <span className="text-purple-400">•</span>
+                <span>
+                  Hands-on Security Incident Response: Completed comprehensive
+                  SOC Analyst training with real-world security scenarios and
+                  incident response simulations. Practiced incident response
+                  procedures including containment, eradication, and recovery
+                  while creating detailed security incident reports documenting
+                  findings, analysis, and remediation steps.
+                </span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-purple-400">•</span>
+                <span>
+                  Threat Detection and Analysis: Analyzed network traffic,
+                  system logs, and security alerts to identify and classify
+                  potential threats including phishing attempts, SQL injection
+                  attacks, and malware infections. Developed proficiency in
+                  establishing attack timelines and understanding attacker
+                  methodologies.
+                </span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-purple-400">•</span>
+                <span>
+                  SIEM Tool Implementation: Utilized Security Information and
+                  Event Management (SIEM) tools to correlate security events
+                  across multiple systems and network segments. Enhanced skills
+                  in log analysis, alert triage, and security event correlation
+                  to identify sophisticated attack patterns and potential
+                  security breaches.
+                </span>
+              </li>
+            </ul>
+            <div className="mt-4 flex flex-wrap gap-2">
+              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
+                Security Information and Event Management (SIEM)
+              </span>
+              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
+                Incident Response
+              </span>
+              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
+                Threat Detection
+              </span>
+              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
+                Security and Log Analysis
+              </span>
+              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
+                Network Security Monitoring
+              </span>
+            </div>
+          </div>
           {/* IT Administration & SOC Home Lab - Skills Development Environment */}
           <div className="mb-8 p-6 bg-gray-800/50 rounded-lg hover:bg-gray-800/70 transition-all duration-300">
             <div className="flex justify-between items-start mb-4">
@@ -317,67 +377,6 @@ function App() {
               </span>
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
                 IT Operations & Troubleshooting
-              </span>
-            </div>
-          </div>
-          {/* LetsDefend SOC Analyst Training */}
-          <div className="mb-8 p-6 bg-gray-800/50 rounded-lg hover:bg-gray-800/70 transition-all duration-300">
-            <div className="flex justify-between items-start mb-4">
-              <h3 className="text-xl font-semibold text-purple-300">
-                LetsDefend SOC Analyst Training
-              </h3>
-              <span className="text-gray-400">Feb 2025 - Present</span>
-            </div>
-            <ul className="space-y-3 text-gray-300">
-              <li className="flex gap-2">
-                <span className="text-purple-400">•</span>
-                <span>
-                  Hands-on Security Incident Response: Completed comprehensive
-                  SOC Analyst training with real-world security scenarios and
-                  incident response simulations. Practiced incident response
-                  procedures including containment, eradication, and recovery
-                  while creating detailed security incident reports documenting
-                  findings, analysis, and remediation steps.
-                </span>
-              </li>
-              <li className="flex gap-2">
-                <span className="text-purple-400">•</span>
-                <span>
-                  Threat Detection and Analysis: Analyzed network traffic,
-                  system logs, and security alerts to identify and classify
-                  potential threats including phishing attempts, SQL injection
-                  attacks, and malware infections. Developed proficiency in
-                  establishing attack timelines and understanding attacker
-                  methodologies.
-                </span>
-              </li>
-              <li className="flex gap-2">
-                <span className="text-purple-400">•</span>
-                <span>
-                  SIEM Tool Implementation: Utilized Security Information and
-                  Event Management (SIEM) tools to correlate security events
-                  across multiple systems and network segments. Enhanced skills
-                  in log analysis, alert triage, and security event correlation
-                  to identify sophisticated attack patterns and potential
-                  security breaches.
-                </span>
-              </li>
-            </ul>
-            <div className="mt-4 flex flex-wrap gap-2">
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Security Information and Event Management (SIEM)
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Incident Response
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Threat Detection
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Security and Log Analysis
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Network Security Monitoring
               </span>
             </div>
           </div>
