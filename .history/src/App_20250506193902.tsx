@@ -210,7 +210,7 @@ function App() {
                 exploring new tools, threat vectors, and security strategies. My
                 desire to stay ahead of the evolving threat landscape stems from
                 both personal curiosity and a deep commitment to protecting the
-                digital security of those around me, as well as individuals who
+                digital security of those around me—as well as individuals who
                 may be vulnerable to malicious actors. Cybersecurity isn't just
                 a career goal for me, it's something I find deeply meaningful.
               </p>

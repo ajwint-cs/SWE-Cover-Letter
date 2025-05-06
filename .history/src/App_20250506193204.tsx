@@ -193,28 +193,13 @@ function App() {
           </div>
           <div className="space-y-4">
             <p>
-              My commitment to cybersecurity is demonstrated through both an
-              extensive certification portfolio and immersive hands-on
-              experience using platforms like LetsDefend and TryHackMe. These
-              labs have sharpened my ability to detect, analyze, and respond to
-              real-world threats in simulated environments. Beyond formal
-              training, I actively maintain a custom-built home lab where I
-              deploy and secure enterprise-grade infrastructure, giving me daily
-              exposure to the tools and challenges faced by modern IT and
-              security teams.
+              My commitment to cybersecurity is evidenced by my extensive
+              certification portfolio and hands-on experience with
+              LetsDefend/TryHackMe labs, demonstrating my practical approach to
+              protecting sensitive information. I also continually enhance my
+              skills through practical training using my home lab, where I
+              deploy and secure enterprise-level infrastructure.
             </p>
-            <div>
-              <p>
-                What drives me is not just a professional interest, but a
-                genuine passion for protecting systems and data. I’m continually
-                exploring new tools, threat vectors, and security strategies. My
-                desire to stay ahead of the evolving threat landscape stems from
-                both personal curiosity and a deep commitment to protecting the
-                digital security of those around me, as well as individuals who
-                may be vulnerable to malicious actors. Cybersecurity isn't just
-                a career goal for me, it's something I find deeply meaningful.
-              </p>
-            </div>
           </div>
         </div>
 
