@@ -433,9 +433,6 @@ function App() {
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
                 Automated Alerts
               </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Log Analysis
-              </span>
             </div>
           </div>
 
@@ -506,11 +503,10 @@ function App() {
         <div className="backdrop-blur-xl bg-gray-900/80 rounded-xl p-8 shadow-[0_8px_32px_0_rgba(31,38,135,0.37)] border border-gray-800 hover:bg-gray-800/80 transition-all duration-300">
           <div className="space-y-4">
             <p>
-              I am confident that my technical expertise, security-driven
-              mindset, and proactive approach to continuous learning would make
-              me a strong asset to your team. I welcome the opportunity to
-              discuss how my background and hands-on experience align with your
-              organization's goals.
+              I am confident that my technical expertise, security focus, and
+              entrepreneurial mindset would make me a valuable addition to your
+              team. I look forward to discussing how my skills align with your
+              organization's needs.
             </p>
             <p className="mt-6">
               Best regards,

@@ -107,30 +107,26 @@ function App() {
               As a cybersecurity-focused IT professional with Google
               Cybersecurity/IT Support and CompTIA Security+ certifications, I
               combine analytical skills from AI testing at DataAnnotation with
-              practical IT and cybersecurity experience through IT-home lab
-              practice & LetsDefend SOC Analyst training. My dual roles as an AI
-              tester and Project Lead Developer at my startup, Endo, demonstrate
-              my ability to identify vulnerabilities and architect secure
-              technical solutions. With Security+ and AWS Cloud Practitioner
-              certification, as well as hands-on SIEM implementation experience,
-              I bring a solid foundation in cloud security and threat detection.{" "}
+              practical security experience through LetsDefend SOC Analyst
+              training. My dual roles as an AI tester and Project Lead Developer
+              at my startup, Endo, demonstrate my ability to identify
+              vulnerabilities and architect secure technical solutions. With
+              Security+ and AWS Cloud Practitioner certification, as well as
+              hands-on SIEM implementation experience, I bring a solid
+              foundation in cloud security and threat detection.{" "}
             </p>{" "}
             <p>
               {" "}
-              My practical IT and cybersecurity experience includes building and
+              My practical cybersecurity experience includes building and
               securing enterprise-level infrastructure through home lab
-              implementations. In an IT scope, I've deployed technologies like
-              Windows Active Directory, pfSense, SharePoint, print/file servers,
-              and more. In a cybersecurity scope, I've deployed SIEM
-              systems(Elasticsearch, Kibana), configured security monitoring,
-              and managed secure network architectures. I'm passionate about
-              learning and improving my skills, protecting vulnerable systems
-              and individuals from digital threats, which drives my continuous
-              learning in information technology, security operations, incident
-              response, and threat analysis. My background in Civil Air Patrol,
-              where I achieved the rank of cadet captain, reinforces my
-              commitment to security protocols and disciplined approach to
-              challenges in the tech sector!{" "}
+              implementations, where I've deployed SIEM systems, configured
+              security monitoring, and managed secure network architectures. I'm
+              passionate about protecting vulnerable systems and individuals
+              from digital threats, which drives my continuous learning in
+              security operations, incident response, and threat analysis. My
+              background in Civil Air Patrol, where I achieved the rank of cadet
+              captain, reinforces my commitment to security protocols and
+              disciplined approach to cybersecurity challenges.{" "}
             </p>
           </div>
         </div>
@@ -192,11 +188,9 @@ function App() {
           <div className="space-y-4">
             <p>
               My commitment to cybersecurity is evidenced by my extensive
-              certification portfolio and hands-on experience with
-              LetsDefend/TryHackMe labs, demonstrating my practical approach to
-              protecting sensitive information. I also continually enhance my
-              skills through practical training using my home lab, where I
-              deploy and secure enterprise-level infrastructure.
+              certification portfolio and hands-on experience with TryHackMe
+              labs, demonstrating my practical approach to protecting sensitive
+              information.
             </p>
           </div>
         </div>
@@ -311,75 +305,6 @@ function App() {
               </span>
             </div>
           </div>
-          {/* IT Administration & SOC Home Lab - Skills Development Environment */}
-          <div className="mb-8 p-6 bg-gray-800/50 rounded-lg hover:bg-gray-800/70 transition-all duration-300">
-            <div className="flex justify-between items-start mb-4">
-              <h3 className="text-xl font-semibold text-purple-300">
-                IT Administration & SOC Home Lab – Skills Development
-                Environment
-              </h3>
-              <span className="text-gray-400">Feb 2025 - Present</span>
-            </div>
-            <ul className="space-y-3 text-gray-300">
-              <li className="flex gap-2">
-                <span className="text-purple-400">•</span>
-                <span>
-                  Enterprise-Grade Simulation: Built a comprehensive Windows
-                  Active Directory domain simulating real-world IT support and
-                  SOC analyst environments. Configured key services including
-                  Group Policy, DNS, SharePoint, WSUS, and Windows File/Printer
-                  Services to practice core system administration workflows.
-                </span>
-              </li>
-              <li className="flex gap-2">
-                <span className="text-purple-400">•</span>
-                <span>
-                  SOC and Security Operations: Deployed Security Onion for log
-                  analysis, alert triage, and incident response. Simulated
-                  real-world threats such as phishing, malware, and lateral
-                  movement to analyze attacker behavior and refine detection
-                  capabilities using SIEM tools and endpoint forensics.
-                </span>
-              </li>
-              <li className="flex gap-2">
-                <span className="text-purple-400">•</span>
-                <span>
-                  IT Operations and Automation: Managed user lifecycle, group
-                  structures, and permissions using PowerShell and Group Policy.
-                  Utilized OSTicket and Jira for help desk operations, workflow
-                  tracking, and escalation processes. Practiced patch
-                  management, firewall configuration, and remote access security
-                  using WSUS and pfSense.
-                </span>
-              </li>
-              <li className="flex gap-2">
-                <span className="text-purple-400">•</span>
-                <span>
-                  Continuous Lab Expansion: Actively enhancing the lab with
-                  cloud integrations, additional services, and complex
-                  attack/defense simulations to deepen hands-on experience
-                  across IT administration and cybersecurity disciplines.
-                </span>
-              </li>
-            </ul>
-            <div className="mt-4 flex flex-wrap gap-2">
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Windows System Administration
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Active Directory & Group Policy Management
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Firewall Configuration (pfSense)
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Security and Log Analysis
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                IT Operations & Troubleshooting
-              </span>
-            </div>
-          </div>
 
           {/* SIEM Project */}
           <div className="mb-8 p-6 bg-gray-800/50 rounded-lg hover:bg-gray-800/70 transition-all duration-300">
@@ -387,7 +312,7 @@ function App() {
               <h3 className="text-xl font-semibold text-purple-300">
                 SIEM Mini-Home Lab
               </h3>
-              <span className="text-gray-400">Oct 2024 - Nov 2024</span>
+              <span className="text-gray-400">Oct 2024 - Present</span>
             </div>
             <ul className="space-y-3 text-gray-300">
               <li className="flex gap-2">
@@ -432,9 +357,6 @@ function App() {
               </span>
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
                 Automated Alerts
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Log Analysis
               </span>
             </div>
           </div>
@@ -506,11 +428,10 @@ function App() {
         <div className="backdrop-blur-xl bg-gray-900/80 rounded-xl p-8 shadow-[0_8px_32px_0_rgba(31,38,135,0.37)] border border-gray-800 hover:bg-gray-800/80 transition-all duration-300">
           <div className="space-y-4">
             <p>
-              I am confident that my technical expertise, security-driven
-              mindset, and proactive approach to continuous learning would make
-              me a strong asset to your team. I welcome the opportunity to
-              discuss how my background and hands-on experience align with your
-              organization's goals.
+              I am confident that my technical expertise, security focus, and
+              entrepreneurial mindset would make me a valuable addition to your
+              team. I look forward to discussing how my skills align with your
+              organization's needs.
             </p>
             <p className="mt-6">
               Best regards,

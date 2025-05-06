@@ -120,7 +120,7 @@ function App() {
               My practical IT and cybersecurity experience includes building and
               securing enterprise-level infrastructure through home lab
               implementations. In an IT scope, I've deployed technologies like
-              Windows Active Directory, pfSense, SharePoint, print/file servers,
+              Windows Active Directory, pfSense, Sharepoint, print/file servers,
               and more. In a cybersecurity scope, I've deployed SIEM
               systems(Elasticsearch, Kibana), configured security monitoring,
               and managed secure network architectures. I'm passionate about
@@ -324,63 +324,55 @@ function App() {
               <li className="flex gap-2">
                 <span className="text-purple-400">•</span>
                 <span>
-                  Enterprise-Grade Simulation: Built a comprehensive Windows
-                  Active Directory domain simulating real-world IT support and
-                  SOC analyst environments. Configured key services including
-                  Group Policy, DNS, SharePoint, WSUS, and Windows File/Printer
-                  Services to practice core system administration workflows.
+                  Hands-on Security Incident Response: Completed comprehensive
+                  SOC Analyst training with real-world security scenarios and
+                  incident response simulations. Practiced incident response
+                  procedures including containment, eradication, and recovery
+                  while creating detailed security incident reports documenting
+                  findings, analysis, and remediation steps.
                 </span>
               </li>
               <li className="flex gap-2">
                 <span className="text-purple-400">•</span>
                 <span>
-                  SOC and Security Operations: Deployed Security Onion for log
-                  analysis, alert triage, and incident response. Simulated
-                  real-world threats such as phishing, malware, and lateral
-                  movement to analyze attacker behavior and refine detection
-                  capabilities using SIEM tools and endpoint forensics.
+                  Threat Detection and Analysis: Analyzed network traffic,
+                  system logs, and security alerts to identify and classify
+                  potential threats including phishing attempts, SQL injection
+                  attacks, and malware infections. Developed proficiency in
+                  establishing attack timelines and understanding attacker
+                  methodologies.
                 </span>
               </li>
               <li className="flex gap-2">
                 <span className="text-purple-400">•</span>
                 <span>
-                  IT Operations and Automation: Managed user lifecycle, group
-                  structures, and permissions using PowerShell and Group Policy.
-                  Utilized OSTicket and Jira for help desk operations, workflow
-                  tracking, and escalation processes. Practiced patch
-                  management, firewall configuration, and remote access security
-                  using WSUS and pfSense.
-                </span>
-              </li>
-              <li className="flex gap-2">
-                <span className="text-purple-400">•</span>
-                <span>
-                  Continuous Lab Expansion: Actively enhancing the lab with
-                  cloud integrations, additional services, and complex
-                  attack/defense simulations to deepen hands-on experience
-                  across IT administration and cybersecurity disciplines.
+                  SIEM Tool Implementation: Utilized Security Information and
+                  Event Management (SIEM) tools to correlate security events
+                  across multiple systems and network segments. Enhanced skills
+                  in log analysis, alert triage, and security event correlation
+                  to identify sophisticated attack patterns and potential
+                  security breaches.
                 </span>
               </li>
             </ul>
             <div className="mt-4 flex flex-wrap gap-2">
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Windows System Administration
+                Security Information and Event Management (SIEM)
               </span>
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Active Directory & Group Policy Management
+                Incident Response
               </span>
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Firewall Configuration (pfSense)
+                Threat Detection
               </span>
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
                 Security and Log Analysis
               </span>
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                IT Operations & Troubleshooting
+                Network Security Monitoring
               </span>
             </div>
           </div>
-
           {/* SIEM Project */}
           <div className="mb-8 p-6 bg-gray-800/50 rounded-lg hover:bg-gray-800/70 transition-all duration-300">
             <div className="flex justify-between items-start mb-4">
@@ -432,9 +424,6 @@ function App() {
               </span>
               <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
                 Automated Alerts
-              </span>
-              <span className="px-3 py-1 bg-purple-900/50 rounded-full text-sm text-purple-300">
-                Log Analysis
               </span>
             </div>
           </div>
@@ -506,11 +495,10 @@ function App() {
         <div className="backdrop-blur-xl bg-gray-900/80 rounded-xl p-8 shadow-[0_8px_32px_0_rgba(31,38,135,0.37)] border border-gray-800 hover:bg-gray-800/80 transition-all duration-300">
           <div className="space-y-4">
             <p>
-              I am confident that my technical expertise, security-driven
-              mindset, and proactive approach to continuous learning would make
-              me a strong asset to your team. I welcome the opportunity to
-              discuss how my background and hands-on experience align with your
-              organization's goals.
+              I am confident that my technical expertise, security focus, and
+              entrepreneurial mindset would make me a valuable addition to your
+              team. I look forward to discussing how my skills align with your
+              organization's needs.
             </p>
             <p className="mt-6">
               Best regards,
