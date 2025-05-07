@@ -232,7 +232,7 @@ function App() {
                 <p>
                   As the founder of{" "}
                   <a
-                    href="https://endoexe.netlify.app/"
+                    href="https://endo-web.vercel.app"
                     className="text-purple-400 hover:text-purple-300 underline"
                     target="_blank"
                     rel="noopener noreferrer"
