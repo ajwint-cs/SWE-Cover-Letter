@@ -44,17 +44,20 @@ function App() {
               </h3>
               <div className="flex gap-4 justify-center md:justify-start">
                 <a
-                  href="mailto:Ajwint.cs@gmail.com"
+                  href="mailto:ajwint.pro@gmail.com"
                   className="hover:text-purple-400 transition-colors transform hover:scale-110"
                 >
                   <Mail className="w-6 h-6" />
                 </a>
-                <a
-                  href="https://github.com/MDZAJ-exe"
-                  className="hover:text-purple-400 transition-colors transform hover:scale-110"
-                >
-                  <Github className="w-6 h-6" />
-                </a>
+                {/* 
+<a
+  href="https://github.com/MDZAJ-exe"
+  className="hover:text-purple-400 transition-colors transform hover:scale-110"
+>
+  <Github className="w-6 h-6" />
+</a>
+*/}
+
                 <a
                   href="https://linkedin.com/in/aj-in-cs"
                   className="hover:text-purple-400 transition-colors transform hover:scale-110"
