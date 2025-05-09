@@ -39,8 +39,8 @@ function App() {
                 Entry-Level IT Generalist | Emerging Cybersecurity Analyst
               </h2>
               <h3 className="text-1xl text-purple-300 mb-4">
-                Security+ Certified | AWS Cloud Practitioner | Google IT Support
-                & Cybersecurity Certificate
+                Security+ / ITIL4 Certified | AWS Cloud Practitioner | Google IT
+                Support & Cybersecurity Certificate
               </h3>
               <div className="flex gap-4 justify-center md:justify-start">
                 <a
