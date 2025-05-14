@@ -326,17 +326,18 @@ function App() {
                 Lab Walkthrough & Documentation
               </h4>
               <p className="text-gray-400 mt-4">
-                For a deeper look into the lab structure and tools in action,
-                please see the embedded walkthrough below or at this{" "}
+                For a comprehensive documentation of my enterprise-level home
+                lab environment, I've created a detailed GitHub repository
+                covering network architecture, security monitoring
+                configurations, and operational procedures.{" "}
                 <a
-                  href="https://docs.google.com/document/d/1mg3qXWvdJIO1zETjr-0_Zip8IgXWu7weZuyd-wuQkmo/edit?usp=sharing"
+                  href="https://github.com/mdzaj-exe/IT-SOC-Home-Lab"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-purple-300 underline hover:text-purple-400"
                 >
-                  link
+                  View the IT-SOC Home Lab Repository
                 </a>
-                .
               </p>
 
               <div className="aspect-video w-full">
