@@ -321,38 +321,24 @@ function App() {
                 </span>
               </li>
             </ul>
-            <div className="flex items-center mb-2">
-  <h4 className="text-lg font-semibold text-purple-300">
-    Lab Walkthrough & Documentation
-  </h4>
-  <a 
-    href="https://github.com/mdzaj-exe/IT-SOC-Home-Lab"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="ml-2"
-  >
-    <img 
-      src="https://img.shields.io/badge/GitHub-IT--SOC--Home--Lab-181717?style=flat&logo=github&logoColor=white" 
-      alt="GitHub Repository" 
-      height="20" 
-    />
-  </a>
-</div>
-<p className="text-gray-400 mt-4">
-  For a comprehensive documentation of my enterprise-level home
-  lab environment, I've created a detailed GitHub repository
-  covering network architecture, security monitoring
-  configurations, and operational procedures.{" "}
-  <a
-    href="https://github.com/mdzaj-exe/IT-SOC-Home-Lab"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="text-purple-300 underline hover:text-purple-400"
-  >
-    View the IT-SOC Home Lab Repository
-  </a>
-</p>
-
+            <div className="mt-6">
+              <h4 className="text-lg font-semibold text-purple-300 mb-2">
+                Lab Walkthrough & Documentation
+              </h4>
+              <p className="text-gray-400 mt-4">
+                For a comprehensive documentation of my enterprise-level home
+                lab environment, I've created a detailed GitHub repository
+                covering network architecture, security monitoring
+                configurations, and operational procedures.{" "}
+                <a
+                  href="https://github.com/mdzaj-exe/IT-SOC-Home-Lab"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-purple-300 underline hover:text-purple-400"
+                >
+                  View the IT-SOC Home Lab Repository
+                </a>
+              </p>
 
               <div className="aspect-video w-full">
                 <iframe
