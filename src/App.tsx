@@ -49,14 +49,14 @@ function App() {
                 >
                   <Mail className="w-6 h-6" />
                 </a>
-                {/* 
-<a
-  href="https://github.com/MDZAJ-exe"
-  className="hover:text-purple-400 transition-colors transform hover:scale-110"
->
-  <Github className="w-6 h-6" />
-</a>
-*/}
+                {
+                  <a
+                    href="https://github.com/MDZAJ-exe"
+                    className="hover:text-purple-400 transition-colors transform hover:scale-110"
+                  >
+                    <Github className="w-6 h-6" />
+                  </a>
+                }
 
                 <a
                   href="https://linkedin.com/in/aj-in-cs"
