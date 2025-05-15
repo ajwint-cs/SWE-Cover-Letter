@@ -51,7 +51,7 @@ function App() {
                 </a>
                 {
                   <a
-                    href="https://github.com/MDZAJ-exe"
+                    href="https://github.com/ajwint-cs"
                     className="hover:text-purple-400 transition-colors transform hover:scale-110"
                   >
                     <Github className="w-6 h-6" />
@@ -331,7 +331,7 @@ function App() {
                 covering network architecture, security monitoring
                 configurations, and operational procedures.{" "}
                 <a
-                  href="https://github.com/mdzaj-exe/IT-SOC-Home-Lab"
+                  href="https://github.com/ajwint-cs/IT-SOC-Home-Lab"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-purple-300 underline hover:text-purple-400"
